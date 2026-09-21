@@ -5,6 +5,6 @@ description=A tool for converting audio formats, supporting multiple formats via
 author=YasserNull
 version=v1.0.0
 versionCode=1
-repository=https://github.com/null-box-repo/audio-converter
+repository=https://github.com/modules-box-repo/audio-converter
 install=setup.sh
 permission=default
